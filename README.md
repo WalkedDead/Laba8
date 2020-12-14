@@ -1,3 +1,4 @@
 # Laba8
-Rep_for_laba_8
-Just_Try
+This rep need for laba8. Thanks for help.
+### Links
+[My profile](https://github.com/WalkedDead)
